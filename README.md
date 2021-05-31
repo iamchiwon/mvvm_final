@@ -57,3 +57,5 @@
 2. ObservableObject 에서는 UI에 그려질 데이터를 제공해야 하니까 VM 이다.
 3. 비지니스 로직이 ObservableObject에 있어야 하나? 그럴필요 없다. Service 같은 곳으로 분리해야 하는 것이 맞다.
 4. ObservableObject 에서 Service에 어떻게 접근해야 하는가? 그래서 DI가 필요한 것이다.
+
+[![MVVM종결영상](http://img.youtube.com/vi/M58LqynqQHc/0.jpg)](https://youtu.be/M58LqynqQHc)
